@@ -94,7 +94,6 @@ See [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ## Blocks of code
 ```
-```
 let message = 'Hello world';
 alert(message);
 ```
@@ -111,6 +110,7 @@ graph TD
   A[Start] --> B{Decision}
   B -->|Yes| C[Finish]
   B -->|No| D[Alternate]
+```
 ```
 
 ```mermaid
